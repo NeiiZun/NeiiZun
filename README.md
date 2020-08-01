@@ -18,7 +18,7 @@
 
 ## ✉️ Contacts
  
-[![discord](https://user-images.githubusercontent.com/49725253/89103935-dc153300-d415-11ea-9d31-b10fa52e8234.png)]("https://dsc.bio/NeiiZun") [![twitter](https://user-images.githubusercontent.com/49725253/89103978-1bdc1a80-d416-11ea-8e99-e9a59e90eb88.png)]("https://twitter.com/Neiizun")
+[![discord](https://user-images.githubusercontent.com/49725253/89103935-dc153300-d415-11ea-9d31-b10fa52e8234.png)](https://dsc.bio/NeiiZun) [![twitter](https://user-images.githubusercontent.com/49725253/89103978-1bdc1a80-d416-11ea-8e99-e9a59e90eb88.png)](https://twitter.com/Neiizun)
 
 ## 🌟 Activity stats
 
