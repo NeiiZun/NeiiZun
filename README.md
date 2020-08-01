@@ -5,7 +5,7 @@
  - 🎈 I'm currently learning JAVA and PYTHON
  - 🏠 Here, I publish [open sources projects]([https://github.com/NeiiZun?tab=repositories](https://github.com/NeiiZun?tab=repositories))
  - 💣 Some times I code discord bots
- - 🕹 I also play Minecraft and programming Minecraft plugins 
+ - 🕹 I also play Minecraft and program Minecraft plugins
 
 ## 💻 Team projects 
 
