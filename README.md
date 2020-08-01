@@ -20,4 +20,4 @@
 
 ## 🌟 Activity stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NeiiZun&hide=contribs,prs)
+![NeiiZun's github stats](https://github-readme-stats.vercel.app/api?username=NeiiZun&hide=contribs,prs)
