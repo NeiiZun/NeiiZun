@@ -3,9 +3,10 @@
 # I'm a Belgian student and developer
 
 * 🎈 I'm currently learning JAVA and PYTHON
+
 * 🏠 Here, I publish open sources projects
 
-* 💣 Some times I code discord bots
+* 💣 Some times I code discord bots and websites
 
 * 🕹 I also play Minecraft and program Minecraft plugins
 
