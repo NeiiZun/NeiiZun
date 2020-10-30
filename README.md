@@ -6,9 +6,7 @@
 
 * 🏠 Here, I publish open sources projects
 
-* 💣 Some times I code discord bots and websites
-
-* 🕹 I also play Minecraft and program Minecraft plugins
+* 💣 I code websites, minecraft plugins & mcp, applications
 
 
 
