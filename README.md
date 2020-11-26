@@ -6,7 +6,7 @@
 
 * 🏠 Here, I publish open sources projects
 
-* 💣 I code websites, minecraft plugins & mcp, applications
+* 💣 I make websites, applications, minecraft plugin & mcp using Java, Python and front languages
 
 
 
@@ -30,7 +30,7 @@
 
 ## ✉️ Contacts
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NeiiZun?color=%231DA1F2&logo=twitter&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/badge/DISCORD-NeiiZun%236666-%237289DA?style=for-the-badge&logo=discord">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NeiiZun?color=%231DA1F2&logo=twitter&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/badge/DISCORD-! " NeiiZun%236666-%237289DA?style=for-the-badge&logo=discord">
 
 
 
