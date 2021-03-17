@@ -6,8 +6,7 @@
 
 * 🏠 Here, I publish open sources projects
 
-* 💣 I make websites, applications, minecraft plugin & mcp using Java, Python and front languages
-
+* 💣 I make websites, applications, minecraft plugin using Java.
 
 
 ## 💻 Team projects
