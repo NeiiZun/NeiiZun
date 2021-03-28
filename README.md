@@ -26,9 +26,3 @@ I'm NeiiZun, young Java and python developer, I often code and work for differen
 
 ![NeiiZun's github stats](https://github-readme-stats.vercel.app/api?username=NeiiZun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiiZun&layout=compact)
 
-
-
-### 🌐 Contacts
-
-[1]: https://dsc.bio/NeiiZun	"Discord"
-[2]: https://twitter.com/NeiiZun	"Twitter"
