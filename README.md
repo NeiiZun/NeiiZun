@@ -18,7 +18,7 @@ I'm NeiiZun, young Java and python developer, I often code and work for differen
 ![](https://img.shields.io/badge/Using-Linux-informational?style=flat&logo=Linux&logoColor=F5B7B1&color=F5B7B1)
 ![](https://img.shields.io/badge/Using-Guice-informational?style=flat&logo=google&logoColor=F5B7B1&color=F5B7B1)
 ![](https://img.shields.io/badge/Using-Flask-informational?style=flat&logo=flask&logoColor=F5B7B1&color=F5B7B1)
-![](https://img.shields.io/badge/Using-Spigot and Bukkit-informational?style=flat&logo=pickaxe&logoColor=F5B7B1&color=F5B7B1)
+![](https://img.shields.io/badge/Using-Spigot%20and%20Bukkit-informational?style=flat&logo=pickaxe&logoColor=F5B7B1&color=F5B7B1)
 
 
 
