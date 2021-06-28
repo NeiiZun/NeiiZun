@@ -6,7 +6,7 @@
 
 ### Hello there<img src="wave.gif" height=50>
 
-I'm NeiiZun, young Java and python developer, I often code and work for differents projets or customers. I never stop learning more about technologies. I'm currently open to serious projects.
+I'm NeiiZun, young Java, web and python developer, I often code and work for differents projets or customers. I never stop learning more about technologies. I'm currently open to serious projects.
 
 
 
